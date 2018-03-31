@@ -1,0 +1,65 @@
+Attaching to computernetworks_tn1_1
+[36mtn1_1  |[0m "- interfetele de retea:"
+[36mtn1_1  |[0m 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1
+[36mtn1_1  |[0m     link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+[36mtn1_1  |[0m     inet 127.0.0.1/8 scope host lo
+[36mtn1_1  |[0m        valid_lft forever preferred_lft forever
+[36mtn1_1  |[0m     inet6 ::1/128 scope host 
+[36mtn1_1  |[0m        valid_lft forever preferred_lft forever
+[36mtn1_1  |[0m 66: eth0@if67: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default 
+[36mtn1_1  |[0m     link/ether 02:42:06:06:06:fe brd ff:ff:ff:ff:ff:ff link-netnsid 0
+[36mtn1_1  |[0m     inet 6.6.6.254/30 scope global eth0
+[36mtn1_1  |[0m        valid_lft forever preferred_lft forever
+[36mtn1_1  |[0m     inet6 fe80::42:6ff:fe06:6fe/64 scope link tentative 
+[36mtn1_1  |[0m        valid_lft forever preferred_lft forever
+[36mtn1_1  |[0m "- gateway:"
+[36mtn1_1  |[0m default via 6.6.6.253 dev eth0 
+[36mtn1_1  |[0m 6.6.6.252/30 dev eth0 proto kernel scope link src 6.6.6.254 
+[36mtn1_1  |[0m "- interfetele de retea:"
+[36mtn1_1  |[0m 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1
+[36mtn1_1  |[0m     link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+[36mtn1_1  |[0m     inet 127.0.0.1/8 scope host lo
+[36mtn1_1  |[0m        valid_lft forever preferred_lft forever
+[36mtn1_1  |[0m     inet6 ::1/128 scope host 
+[36mtn1_1  |[0m        valid_lft forever preferred_lft forever
+[36mtn1_1  |[0m 72: eth0@if73: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default 
+[36mtn1_1  |[0m     link/ether 02:42:06:06:06:fe brd ff:ff:ff:ff:ff:ff link-netnsid 0
+[36mtn1_1  |[0m     inet 6.6.6.254/30 scope global eth0
+[36mtn1_1  |[0m        valid_lft forever preferred_lft forever
+[36mtn1_1  |[0m     inet6 fe80::42:6ff:fe06:6fe/64 scope link tentative 
+[36mtn1_1  |[0m        valid_lft forever preferred_lft forever
+[36mtn1_1  |[0m "- gateway:"
+[36mtn1_1  |[0m default via 6.6.6.253 dev eth0 
+[36mtn1_1  |[0m 6.6.6.252/30 dev eth0 proto kernel scope link src 6.6.6.254 
+[36mtn1_1  |[0m "- interfetele de retea:"
+[36mtn1_1  |[0m 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1
+[36mtn1_1  |[0m     link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+[36mtn1_1  |[0m     inet 127.0.0.1/8 scope host lo
+[36mtn1_1  |[0m        valid_lft forever preferred_lft forever
+[36mtn1_1  |[0m     inet6 ::1/128 scope host 
+[36mtn1_1  |[0m        valid_lft forever preferred_lft forever
+[36mtn1_1  |[0m 78: eth0@if79: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default 
+[36mtn1_1  |[0m     link/ether 02:42:06:06:06:fe brd ff:ff:ff:ff:ff:ff link-netnsid 0
+[36mtn1_1  |[0m     inet 6.6.6.254/30 scope global eth0
+[36mtn1_1  |[0m        valid_lft forever preferred_lft forever
+[36mtn1_1  |[0m     inet6 fe80::42:6ff:fe06:6fe/64 scope link tentative 
+[36mtn1_1  |[0m        valid_lft forever preferred_lft forever
+[36mtn1_1  |[0m "- gateway:"
+[36mtn1_1  |[0m default via 6.6.6.253 dev eth0 
+[36mtn1_1  |[0m 6.6.6.252/30 dev eth0 proto kernel scope link src 6.6.6.254 
+[36mtn1_1  |[0m "- interfetele de retea:"
+[36mtn1_1  |[0m 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1
+[36mtn1_1  |[0m     link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+[36mtn1_1  |[0m     inet 127.0.0.1/8 scope host lo
+[36mtn1_1  |[0m        valid_lft forever preferred_lft forever
+[36mtn1_1  |[0m     inet6 ::1/128 scope host 
+[36mtn1_1  |[0m        valid_lft forever preferred_lft forever
+[36mtn1_1  |[0m 86: eth0@if87: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default 
+[36mtn1_1  |[0m     link/ether 02:42:06:06:06:fe brd ff:ff:ff:ff:ff:ff link-netnsid 0
+[36mtn1_1  |[0m     inet 6.6.6.254/30 scope global eth0
+[36mtn1_1  |[0m        valid_lft forever preferred_lft forever
+[36mtn1_1  |[0m     inet6 fe80::42:6ff:fe06:6fe/64 scope link tentative 
+[36mtn1_1  |[0m        valid_lft forever preferred_lft forever
+[36mtn1_1  |[0m "- gateway:"
+[36mtn1_1  |[0m default via 6.6.6.253 dev eth0 
+[36mtn1_1  |[0m 6.6.6.252/30 dev eth0 proto kernel scope link src 6.6.6.254
